@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I am a front-end engineer working in Guangzhou
-Self study code
+
 <!--
 **Wuyifeng666/Wuyifeng666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
